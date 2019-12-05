@@ -1,3 +1,3 @@
 # Machine-learning
 
-Repositório com códigos de estudo em Machine Leanrning.
+Repository with my Machine Learning study codes.
