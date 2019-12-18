@@ -4,7 +4,7 @@ import pandas as pd
 class Perceptron(object):
 	
 	def __init__(self,eta = 0.01,n_iter = 10):
-		self.eta = eta #learning range ,between 0.0 and 1.0
+		self.eta = eta #learning range ,between 0.0 and 1.0 , o quap rapido a rede aprende
 		self.n_iter = n_iter #passes over training dataset
 
 	
